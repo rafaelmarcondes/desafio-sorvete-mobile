@@ -120,7 +120,7 @@ main{
 }
 
 .card img{
-  
+  height: 31.6rem;
   object-fit: cover;
   border-radius: 42px;
 
